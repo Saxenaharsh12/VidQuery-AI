@@ -9,4 +9,4 @@ langchain-groq
 sentence-transformers
 faiss-cpu
 torch
-numpysource venv/bin/activatepip install -r requirements.txt
+numpy
