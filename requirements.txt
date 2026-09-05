@@ -1,12 +1,16 @@
-gradio
+streamlit
+
 youtube-transcript-api
+
 langchain
 langchain-core
 langchain-community
 langchain-text-splitters
 langchain-huggingface
 langchain-groq
+
 sentence-transformers
 faiss-cpu
+
 torch
 numpy
