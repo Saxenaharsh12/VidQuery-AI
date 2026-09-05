@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: VidQuery AI
 emoji: 🎬
@@ -49,3 +50,7 @@ Top Relevant Context
 Groq LLM
      ↓
 Final Answer
+=======
+# VidQuery-AI
+AI-powered YouTube video chatbot using RAG and Groq.
+>>>>>>> 9ed16b815a700e819bea853d8caf2f5f0f69278c
