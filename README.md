@@ -14,6 +14,10 @@ pinned: false
 
 An AI-powered YouTube video assistant that allows users to ask intelligent questions about YouTube video content.
 
+## 🚀 Live Demo
+
+👉 [Click here to try VidQuery AI](https://vidquery-ai-ih7h3xekstna9weox7ybyv.streamlit.app/)
+
 ## 🚀 Features
 
 - 📺 Process YouTube videos using their URL
